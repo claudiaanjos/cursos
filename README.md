@@ -55,12 +55,11 @@ Cada curso é uma chance de expandir meus horizontes e adquirir novas habilidade
 * [JavaScript e ECMAScript](https://github.com/claudiaanjos/curso-javascript) (Curso em Vídeo).
 * [JavaScript: Programando na linguagem da web](https://github.com/claudiaanjos/controle-de-pacientes) (Alura).
 
-&nbsp;
+#
 
 <div>
   <p align="left">
-    <a href ="https://github.com/claudiaanjos"><img src="https://img.shields.io/badge/Github-%23100000.svg?&style=for-the-badge&logo=github" target="_blank"></a>
     <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>
-    <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium" target="_blank"></a>
+    <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/-Medium-FF5722?style=for-the-badge&logo=medium" target="_blank"></a>
 </div>
  
