@@ -17,6 +17,7 @@ Cada curso é uma chance de expandir meus horizontes e adquirir novas habilidade
 * [Oficina de Data Science - Hands On: Aplicando um modelo de ML](https://github.com/claudiaanjos/modelo-machine-learning) (Fatech Girls e DP6).
 * [Estatística para Ciência de Dados e Machine Learning](https://github.com/claudiaanjos/estatistica-ciencia-dados-ML) (Udemy).
 * [Machine Learning](https://github.com/claudiaanjos/machine-learning-dell) (Dell).
+* [ Machine Learning para Predições em Saúde](https://github.com/claudiaanjos/ML-predicoes-em-saude/tree/main) (USP).
 
 ### Bootcamps de Dados
 
