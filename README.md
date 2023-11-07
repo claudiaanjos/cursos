@@ -5,7 +5,6 @@
 Esse é o meu repositório de aprendizado.
 Aqui, compartilho projetos e materiais de cursos concluídos e em andamento. 
 
-Cada curso é uma chance de expandir meus horizontes e adquirir novas habilidades. 
 
 ### Python e Ciência de Dados
 
