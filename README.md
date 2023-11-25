@@ -30,14 +30,15 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 * [Introdução ao Machine Learning](https://github.com/claudiaanjos/cursor-ml) (Curso R).
 * [R: análise de dados](https://github.com/claudiaanjos/analise-dados-R) (Alura).
 
+### SQL
+
+* [SQL para Análise de Dados](https://github.com/claudiaanjos/SQL-para-analise-de-dados) (Udemy).
+* [SQL com Google BigQuery para Análise de Dados]() (Udemy).
+
 ### Visualização de Dados
 
 * [Microsoft Power BI Para Business Intelligence e Data Science](https://github.com/claudiaanjos/power-BI-DSA) (Data Science Academy).
 * [Visualização de dados](https://github.com/claudiaanjos/visualizacao-dados-dell/tree/main) (Dell).
-
-### SQL
-
-* [SQL para Análise de Dados](https://github.com/claudiaanjos/SQL-para-analise-de-dados) (Udemy).
 
 ### Engenharia de Dados e UML
 
