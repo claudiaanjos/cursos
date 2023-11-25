@@ -33,7 +33,7 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 ### SQL
 
 * [SQL para Análise de Dados](https://github.com/claudiaanjos/SQL-para-analise-de-dados) (Udemy).
-* [SQL com Google BigQuery para Análise de Dados]() (Udemy).
+* [SQL com Google BigQuery para Análise de Dados](https://github.com/claudiaanjos/SQL-bigquery) (Udemy).
 
 ### Visualização de Dados
 
