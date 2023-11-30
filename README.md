@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/claudiaanjos/Cursos/blob/main/image.png" width="80%"/> </div>
+<div align="center"> <img src="https://github.com/claudiaanjos/cursos/blob/main/image01.png" width="100%"/> </div>
 
 #
 
