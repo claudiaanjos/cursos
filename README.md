@@ -14,8 +14,8 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 * [Machine Learning](https://github.com/claudiaanjos/machine-learning-dell) (Dell).
 * [Machine Learning para Predições em Saúde](https://github.com/claudiaanjos/ML-predicoes-em-saude/tree/main) (USP).
 * [Machine Learning: Clusterização com Linguagem Python](https://github.com/claudiaanjos/ML-clusterizacao-python/tree/main) (Udemy).
-* [Python](https://github.com/claudiaanjos/python) (Curso em Vídeo).
 * [Python para Machine Learning](https://github.com/claudiaanjos/python-para-ML-dell) (Dell).
+* [Python](https://github.com/claudiaanjos/python) (Curso em Vídeo).
 * [Treinamento de Big Data Science](https://github.com/claudiaanjos/big-data-science-semantix) (Semantix).
 
 ### Bootcamps de Dados
