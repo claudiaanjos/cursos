@@ -16,7 +16,6 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 * [Machine Learning: Clusterização com Linguagem Python](https://github.com/claudiaanjos/ML-clusterizacao-python/tree/main) (Udemy).
 * [Python para Machine Learning](https://github.com/claudiaanjos/python-para-ML-dell) (Dell).
 * [Treinamento de Big Data Science](https://github.com/claudiaanjos/big-data-science-semantix) (Semantix).
-* [Python](https://github.com/claudiaanjos/python) (Curso em Vídeo).
 
 ### Bootcamps de Dados
 
