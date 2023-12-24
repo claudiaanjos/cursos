@@ -9,7 +9,7 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 ### Python e Ciência de Dados
 
 * [Estatística para Ciência de Dados e Machine Learning](https://github.com/claudiaanjos/estatistica-ciencia-dados-ML) (Udemy).
-* [Formação Profissional Python: Curso Completo + Projetos](https://github.com/claudiaanjos/curso-python) (Udemy).
+* [Formação Profissional Python](https://github.com/claudiaanjos/curso-python) (Udemy).
 * [Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://github.com/claudiaanjos/python-DSA) (Data Science Academy).
 * [Machine Learning](https://github.com/claudiaanjos/machine-learning-dell) (Dell).
 * [Machine Learning para Predições em Saúde](https://github.com/claudiaanjos/ML-predicoes-em-saude/tree/main) (USP).
