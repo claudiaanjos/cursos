@@ -8,11 +8,11 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 
 ### Python e Ciência de Dados
 
+* [Machine Learning para Predições em Saúde](https://github.com/claudiaanjos/ML-predicoes-em-saude/tree/main) (USP).
 * [Estatística para Ciência de Dados e Machine Learning](https://github.com/claudiaanjos/estatistica-ciencia-dados-ML) (Udemy).
 * [Formação Profissional Python](https://github.com/claudiaanjos/curso-python) (Udemy).
 * [Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://github.com/claudiaanjos/python-DSA) (Data Science Academy).
 * [Machine Learning](https://github.com/claudiaanjos/machine-learning-dell) (Dell).
-* [Machine Learning para Predições em Saúde](https://github.com/claudiaanjos/ML-predicoes-em-saude/tree/main) (USP).
 * [Machine Learning: Clusterização com Linguagem Python](https://github.com/claudiaanjos/ML-clusterizacao-python/tree/main) (Udemy).
 * [Python para Machine Learning](https://github.com/claudiaanjos/python-para-ML-dell) (Dell).
 * [Treinamento de Big Data Science](https://github.com/claudiaanjos/big-data-science-semantix) (Semantix).
