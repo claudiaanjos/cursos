@@ -2,7 +2,7 @@
 
 #
 
-Esse é o meu repositório de aprendizado.
+Repositório do meu aprendizado.
 Aqui, compartilho projetos e materiais de cursos concluídos e em andamento. 
 
 
