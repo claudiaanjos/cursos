@@ -27,7 +27,6 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 
 * [Análise de dados em linguagem R](https://github.com/claudiaanjos/curso-analise-dados-em-R) (Enap).
 * [Introdução ao Machine Learning](https://github.com/claudiaanjos/cursor-ml) (Curso R).
-* [R: análise de dados](https://github.com/claudiaanjos/analise-dados-R) (Alura).
 
 ### SQL
 
