@@ -2,7 +2,6 @@
 
 #
 
-> [!IMPORTANT]
 Repositório do meu aprendizado.
 Aqui, compartilho projetos e materiais de cursos concluídos e em andamento. 
 
