@@ -52,7 +52,7 @@ Aqui, compartilho projetos e materiais de cursos concluídos e em andamento.
 
 * [Formação em Desenvolvimento de Software](https://github.com/claudiaanjos/cubos-academy) (Cubos Academy).
 * [JavaScript e ECMAScript](https://github.com/claudiaanjos/curso-javascript) (Curso em Vídeo).
-* [JavaScript: Programando na linguagem da web](https://github.com/claudiaanjos/controle-de-pacientes) (Alura).
+* [JavaScript](https://github.com/claudiaanjos/controle-de-pacientes) (Alura).
 
 #
 
